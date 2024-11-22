@@ -1,0 +1,119 @@
+2024-11-22 12:17:05 [main] INFO  tria.Main - SISTEMA INICIANDO... 
+2024-11-22 12:17:34 [grizzly-http-server-0] INFO  tria.entidades.Carro - Listados: [Carro(placa=PLO1234, marca=BYD, modelo=Dolphin, ano=2023, bateria=null, placaBateria=null), Carro(placa=XYZ5678, marca=Honda, modelo=HB20, ano=2022, bateria=null, placaBateria=null)] 
+2024-11-22 12:17:35 [grizzly-http-server-1] INFO  tria.entidades.Carro - Listados: [Carro(placa=PLO1234, marca=BYD, modelo=Dolphin, ano=2023, bateria=null, placaBateria=null), Carro(placa=XYZ5678, marca=Honda, modelo=HB20, ano=2022, bateria=null, placaBateria=null)] 
+2024-11-22 12:20:34 [grizzly-http-server-2] INFO  tria.entidades.Carro - Listados: [Carro(placa=PLO1234, marca=BYD, modelo=Dolphin, ano=2023, bateria=null, placaBateria=null), Carro(placa=XYZ5678, marca=Honda, modelo=HB20, ano=2022, bateria=null, placaBateria=null)] 
+2024-11-22 12:20:35 [grizzly-http-server-3] INFO  tria.entidades.Carro - Listados: [Carro(placa=PLO1234, marca=BYD, modelo=Dolphin, ano=2023, bateria=null, placaBateria=null), Carro(placa=XYZ5678, marca=Honda, modelo=HB20, ano=2022, bateria=null, placaBateria=null)] 
+2024-11-22 12:21:48 [grizzly-http-server-4] INFO  tria.entidades.Carro - Listados: [Carro(placa=PLO1234, marca=BYD, modelo=Dolphin, ano=2023, bateria=null, placaBateria=null), Carro(placa=XYZ5678, marca=Honda, modelo=HB20, ano=2022, bateria=null, placaBateria=null)] 
+2024-11-22 12:21:48 [grizzly-http-server-5] INFO  tria.entidades.Carro - Listados: [Carro(placa=PLO1234, marca=BYD, modelo=Dolphin, ano=2023, bateria=null, placaBateria=null), Carro(placa=XYZ5678, marca=Honda, modelo=HB20, ano=2022, bateria=null, placaBateria=null)] 
+2024-11-22 12:23:24 [grizzly-http-server-6] INFO  tria.entidades.Carro - Listados: [Carro(placa=PLO1234, marca=BYD, modelo=Dolphin, ano=2023, bateria=null, placaBateria=null), Carro(placa=XYZ5678, marca=Honda, modelo=HB20, ano=2022, bateria=null, placaBateria=null)] 
+2024-11-22 12:23:24 [grizzly-http-server-7] INFO  tria.entidades.Carro - Listados: [Carro(placa=PLO1234, marca=BYD, modelo=Dolphin, ano=2023, bateria=null, placaBateria=null), Carro(placa=XYZ5678, marca=Honda, modelo=HB20, ano=2022, bateria=null, placaBateria=null)] 
+2024-11-22 12:25:06 [grizzly-http-server-8] INFO  tria.entidades.Carro - Buscado por ID: Carro(placa=PLO1234, marca=BYD, modelo=Dolphin, ano=2023, bateria=null, placaBateria=null) 
+2024-11-22 12:25:06 [grizzly-http-server-9] INFO  tria.entidades.Carro - Buscado por ID: Carro(placa=PLO1234, marca=BYD, modelo=Dolphin, ano=2023, bateria=null, placaBateria=null) 
+2024-11-22 12:25:09 [grizzly-http-server-10] INFO  tria.entidades.Carro - Listados: [Carro(placa=PLO1234, marca=BYD, modelo=Dolphin, ano=2023, bateria=null, placaBateria=null), Carro(placa=XYZ5678, marca=Honda, modelo=HB20, ano=2022, bateria=null, placaBateria=null)] 
+2024-11-22 12:25:10 [grizzly-http-server-11] INFO  tria.entidades.Carro - Listados: [Carro(placa=PLO1234, marca=BYD, modelo=Dolphin, ano=2023, bateria=null, placaBateria=null), Carro(placa=XYZ5678, marca=Honda, modelo=HB20, ano=2022, bateria=null, placaBateria=null)] 
+2024-11-22 12:25:10 [grizzly-http-server-0] INFO  tria.entidades.Carro - Buscado por ID: Carro(placa=XYZ5678, marca=Honda, modelo=HB20, ano=2022, bateria=null, placaBateria=null) 
+2024-11-22 12:25:11 [grizzly-http-server-1] INFO  tria.entidades.Carro - Buscado por ID: Carro(placa=XYZ5678, marca=Honda, modelo=HB20, ano=2022, bateria=null, placaBateria=null) 
+2024-11-22 12:25:12 [grizzly-http-server-2] INFO  tria.entidades.Carro - Listados: [Carro(placa=PLO1234, marca=BYD, modelo=Dolphin, ano=2023, bateria=null, placaBateria=null), Carro(placa=XYZ5678, marca=Honda, modelo=HB20, ano=2022, bateria=null, placaBateria=null)] 
+2024-11-22 12:25:12 [grizzly-http-server-3] INFO  tria.entidades.Carro - Listados: [Carro(placa=PLO1234, marca=BYD, modelo=Dolphin, ano=2023, bateria=null, placaBateria=null), Carro(placa=XYZ5678, marca=Honda, modelo=HB20, ano=2022, bateria=null, placaBateria=null)] 
+2024-11-22 12:27:59 [grizzly-http-server-10] INFO  tria.entidades.Carro - Listados: [Carro(placa=PLO1234, marca=BYD, modelo=Dolphin, ano=2023, bateria=null, placaBateria=null), Carro(placa=XYZ5678, marca=Honda, modelo=HB20, ano=2022, bateria=null, placaBateria=null)] 
+2024-11-22 12:27:59 [grizzly-http-server-11] INFO  tria.entidades.Carro - Listados: [Carro(placa=PLO1234, marca=BYD, modelo=Dolphin, ano=2023, bateria=null, placaBateria=null), Carro(placa=XYZ5678, marca=Honda, modelo=HB20, ano=2022, bateria=null, placaBateria=null)] 
+2024-11-22 12:28:02 [grizzly-http-server-0] INFO  tria.entidades.Carro - Buscado por ID: Carro(placa=PLO1234, marca=BYD, modelo=Dolphin, ano=2023, bateria=null, placaBateria=null) 
+2024-11-22 12:28:02 [grizzly-http-server-1] INFO  tria.entidades.Carro - Buscado por ID: Carro(placa=PLO1234, marca=BYD, modelo=Dolphin, ano=2023, bateria=null, placaBateria=null) 
+2024-11-22 12:28:04 [grizzly-http-server-2] INFO  tria.entidades.Carro - Listados: [Carro(placa=PLO1234, marca=BYD, modelo=Dolphin, ano=2023, bateria=null, placaBateria=null), Carro(placa=XYZ5678, marca=Honda, modelo=HB20, ano=2022, bateria=null, placaBateria=null)] 
+2024-11-22 12:28:04 [grizzly-http-server-3] INFO  tria.entidades.Carro - Listados: [Carro(placa=PLO1234, marca=BYD, modelo=Dolphin, ano=2023, bateria=null, placaBateria=null), Carro(placa=XYZ5678, marca=Honda, modelo=HB20, ano=2022, bateria=null, placaBateria=null)] 
+2024-11-22 12:30:02 [grizzly-http-server-4] INFO  tria.entidades.Carro - Listados: [Carro(placa=PLO1234, marca=BYD, modelo=Dolphin, ano=2023, bateria=null, placaBateria=null), Carro(placa=XYZ5678, marca=Honda, modelo=HB20, ano=2022, bateria=null, placaBateria=null)] 
+2024-11-22 12:30:02 [grizzly-http-server-5] INFO  tria.entidades.Carro - Listados: [Carro(placa=PLO1234, marca=BYD, modelo=Dolphin, ano=2023, bateria=null, placaBateria=null), Carro(placa=XYZ5678, marca=Honda, modelo=HB20, ano=2022, bateria=null, placaBateria=null)] 
+2024-11-22 12:35:29 [grizzly-http-server-6] INFO  tria.entidades.Carro - Buscado por ID: Carro(placa=PLO1234, marca=BYD, modelo=Dolphin, ano=2023, bateria=null, placaBateria=null) 
+2024-11-22 12:35:29 [grizzly-http-server-7] INFO  tria.entidades.Carro - Buscado por ID: Carro(placa=PLO1234, marca=BYD, modelo=Dolphin, ano=2023, bateria=null, placaBateria=null) 
+2024-11-22 12:35:32 [grizzly-http-server-8] INFO  tria.entidades.Carro - Listados: [Carro(placa=PLO1234, marca=BYD, modelo=Dolphin, ano=2023, bateria=null, placaBateria=null), Carro(placa=XYZ5678, marca=Honda, modelo=HB20, ano=2022, bateria=null, placaBateria=null)] 
+2024-11-22 12:35:32 [grizzly-http-server-9] INFO  tria.entidades.Carro - Listados: [Carro(placa=PLO1234, marca=BYD, modelo=Dolphin, ano=2023, bateria=null, placaBateria=null), Carro(placa=XYZ5678, marca=Honda, modelo=HB20, ano=2022, bateria=null, placaBateria=null)] 
+2024-11-22 12:42:38 [grizzly-http-server-10] INFO  tria.entidades.Bateria - Listados: [Bateria(tensao_nominal=48.0, capacidade_ah=100.0, capacidade_kwh=4800.0)] 
+2024-11-22 12:42:38 [grizzly-http-server-11] INFO  tria.entidades.Bateria - Listados: [Bateria(tensao_nominal=48.0, capacidade_ah=100.0, capacidade_kwh=4800.0)] 
+2024-11-22 12:42:43 [grizzly-http-server-0] INFO  tria.entidades.Carro - Buscado por ID: Carro(placa=PLO1234, marca=BYD, modelo=Dolphin, ano=2023, bateria=null, placaBateria=null) 
+2024-11-22 12:42:43 [grizzly-http-server-1] INFO  tria.entidades.Carro - Buscado por ID: Carro(placa=PLO1234, marca=BYD, modelo=Dolphin, ano=2023, bateria=null, placaBateria=null) 
+2024-11-22 12:42:46 [grizzly-http-server-2] INFO  tria.entidades.Bateria - Listados: [Bateria(tensao_nominal=48.0, capacidade_ah=100.0, capacidade_kwh=4800.0)] 
+2024-11-22 12:42:46 [grizzly-http-server-3] INFO  tria.entidades.Bateria - Listados: [Bateria(tensao_nominal=48.0, capacidade_ah=100.0, capacidade_kwh=4800.0)] 
+2024-11-22 12:42:49 [grizzly-http-server-4] INFO  tria.entidades.Bateria - Listados: [Bateria(tensao_nominal=48.0, capacidade_ah=100.0, capacidade_kwh=4800.0)] 
+2024-11-22 12:42:49 [grizzly-http-server-5] INFO  tria.entidades.Bateria - Listados: [Bateria(tensao_nominal=48.0, capacidade_ah=100.0, capacidade_kwh=4800.0)] 
+2024-11-22 12:49:07 [grizzly-http-server-6] INFO  tria.entidades.Bateria - Buscado por ID: Bateria(tensao_nominal=48.0, capacidade_ah=100.0, capacidade_kwh=4800.0) 
+2024-11-22 12:49:07 [grizzly-http-server-7] INFO  tria.entidades.Bateria - Buscado por ID: Bateria(tensao_nominal=48.0, capacidade_ah=100.0, capacidade_kwh=4800.0) 
+2024-11-22 12:49:09 [grizzly-http-server-8] INFO  tria.entidades.Bateria - Listados: [Bateria(tensao_nominal=48.0, capacidade_ah=100.0, capacidade_kwh=4800.0)] 
+2024-11-22 12:49:09 [grizzly-http-server-9] INFO  tria.entidades.Bateria - Listados: [Bateria(tensao_nominal=48.0, capacidade_ah=100.0, capacidade_kwh=4800.0)] 
+2024-11-22 12:49:22 [grizzly-http-server-10] INFO  tria.entidades.PlacaBateria - Listados: [PlacaBateria(tensao_nominal=400.0, capacidade_ah=150.0, capacidade_kwh=60.0)] 
+2024-11-22 12:49:22 [grizzly-http-server-11] INFO  tria.entidades.PlacaBateria - Listados: [PlacaBateria(tensao_nominal=400.0, capacidade_ah=150.0, capacidade_kwh=60.0)] 
+2024-11-22 12:49:25 [grizzly-http-server-0] INFO  tria.entidades.PlacaBateria - Buscado por ID: PlacaBateria(tensao_nominal=400.0, capacidade_ah=150.0, capacidade_kwh=60.0) 
+2024-11-22 12:49:25 [grizzly-http-server-1] INFO  tria.entidades.PlacaBateria - Buscado por ID: PlacaBateria(tensao_nominal=400.0, capacidade_ah=150.0, capacidade_kwh=60.0) 
+2024-11-22 12:49:27 [grizzly-http-server-2] INFO  tria.entidades.PlacaBateria - Listados: [PlacaBateria(tensao_nominal=400.0, capacidade_ah=150.0, capacidade_kwh=60.0)] 
+2024-11-22 12:49:27 [grizzly-http-server-3] INFO  tria.entidades.PlacaBateria - Listados: [PlacaBateria(tensao_nominal=400.0, capacidade_ah=150.0, capacidade_kwh=60.0)] 
+2024-11-22 12:58:35 [grizzly-http-server-4] INFO  tria.entidades.Bateria - Listados: [Bateria(tensao_nominal=48.0, capacidade_ah=100.0, capacidade_kwh=4800.0)] 
+2024-11-22 12:58:36 [grizzly-http-server-5] INFO  tria.entidades.Bateria - Listados: [Bateria(tensao_nominal=48.0, capacidade_ah=100.0, capacidade_kwh=4800.0)] 
+2024-11-22 12:58:38 [grizzly-http-server-6] INFO  tria.entidades.PlacaBateria - Listados: [PlacaBateria(tensao_nominal=400.0, capacidade_ah=150.0, capacidade_kwh=60.0)] 
+2024-11-22 12:58:38 [grizzly-http-server-7] INFO  tria.entidades.PlacaBateria - Listados: [PlacaBateria(tensao_nominal=400.0, capacidade_ah=150.0, capacidade_kwh=60.0)] 
+2024-11-22 12:58:40 [grizzly-http-server-8] INFO  tria.entidades.Carro - Listados: [Carro(placa=PLO1234, marca=BYD, modelo=Dolphin, ano=2023, bateria=null, placaBateria=null), Carro(placa=XYZ5678, marca=Honda, modelo=HB20, ano=2022, bateria=null, placaBateria=null)] 
+2024-11-22 12:58:40 [grizzly-http-server-9] INFO  tria.entidades.Carro - Listados: [Carro(placa=PLO1234, marca=BYD, modelo=Dolphin, ano=2023, bateria=null, placaBateria=null), Carro(placa=XYZ5678, marca=Honda, modelo=HB20, ano=2022, bateria=null, placaBateria=null)] 
+2024-11-22 12:58:43 [grizzly-http-server-10] INFO  tria.entidades.Carro - Listados: [Carro(placa=PLO1234, marca=BYD, modelo=Dolphin, ano=2023, bateria=null, placaBateria=null), Carro(placa=XYZ5678, marca=Honda, modelo=HB20, ano=2022, bateria=null, placaBateria=null)] 
+2024-11-22 12:58:43 [grizzly-http-server-11] INFO  tria.entidades.Carro - Listados: [Carro(placa=PLO1234, marca=BYD, modelo=Dolphin, ano=2023, bateria=null, placaBateria=null), Carro(placa=XYZ5678, marca=Honda, modelo=HB20, ano=2022, bateria=null, placaBateria=null)] 
+2024-11-22 13:01:56 [grizzly-http-server-1] INFO  tria.entidades.Carro - Cadastrado: Carro(placa=ERT1234, marca=Fiat, modelo=Uno, ano=2020, bateria=null, placaBateria=null) 
+2024-11-22 13:01:58 [grizzly-http-server-2] INFO  tria.entidades.Carro - Listados: [Carro(placa=PLO1234, marca=BYD, modelo=Dolphin, ano=2023, bateria=null, placaBateria=null), Carro(placa=XYZ5678, marca=Honda, modelo=HB20, ano=2022, bateria=null, placaBateria=null), Carro(placa=ERT1234, marca=Fiat, modelo=Uno, ano=2020, bateria=null, placaBateria=null)] 
+2024-11-22 13:01:58 [grizzly-http-server-3] INFO  tria.entidades.Carro - Listados: [Carro(placa=PLO1234, marca=BYD, modelo=Dolphin, ano=2023, bateria=null, placaBateria=null), Carro(placa=XYZ5678, marca=Honda, modelo=HB20, ano=2022, bateria=null, placaBateria=null), Carro(placa=ERT1234, marca=Fiat, modelo=Uno, ano=2020, bateria=null, placaBateria=null)] 
+2024-11-22 13:02:03 [grizzly-http-server-4] INFO  tria.entidades.Carro - Buscado por ID: Carro(placa=ERT1234, marca=Fiat, modelo=Uno, ano=2020, bateria=null, placaBateria=null) 
+2024-11-22 13:02:03 [grizzly-http-server-5] INFO  tria.entidades.Carro - Buscado por ID: Carro(placa=ERT1234, marca=Fiat, modelo=Uno, ano=2020, bateria=null, placaBateria=null) 
+2024-11-22 13:02:08 [grizzly-http-server-7] INFO  tria.entidades.Carro - Buscado por ID: Carro(placa=ERT1234, marca=Fiat, modelo=Uno, ano=2020, bateria=null, placaBateria=null) 
+2024-11-22 13:02:08 [grizzly-http-server-7] INFO  tria.entidades.Carro - Atualizado: Carro(placa=ERT1234, marca=Fiat, modelo=Palio, ano=2020, bateria=null, placaBateria=null) 
+2024-11-22 13:02:10 [grizzly-http-server-8] INFO  tria.entidades.Carro - Listados: [Carro(placa=PLO1234, marca=BYD, modelo=Dolphin, ano=2023, bateria=null, placaBateria=null), Carro(placa=XYZ5678, marca=Honda, modelo=HB20, ano=2022, bateria=null, placaBateria=null), Carro(placa=ERT1234, marca=Fiat, modelo=Palio, ano=2020, bateria=null, placaBateria=null)] 
+2024-11-22 13:02:10 [grizzly-http-server-9] INFO  tria.entidades.Carro - Listados: [Carro(placa=PLO1234, marca=BYD, modelo=Dolphin, ano=2023, bateria=null, placaBateria=null), Carro(placa=XYZ5678, marca=Honda, modelo=HB20, ano=2022, bateria=null, placaBateria=null), Carro(placa=ERT1234, marca=Fiat, modelo=Palio, ano=2020, bateria=null, placaBateria=null)] 
+2024-11-22 13:02:13 [grizzly-http-server-10] INFO  tria.entidades.Carro - Buscado por ID: Carro(placa=ERT1234, marca=Fiat, modelo=Palio, ano=2020, bateria=null, placaBateria=null) 
+2024-11-22 13:02:13 [grizzly-http-server-11] INFO  tria.entidades.Carro - Buscado por ID: Carro(placa=ERT1234, marca=Fiat, modelo=Palio, ano=2020, bateria=null, placaBateria=null) 
+2024-11-22 13:02:13 [grizzly-http-server-1] INFO  tria.entidades.Carro - Buscado por ID: Carro(placa=ERT1234, marca=Fiat, modelo=Palio, ano=2020, bateria=null, placaBateria=null) 
+2024-11-22 13:02:14 [grizzly-http-server-1] INFO  tria.entidades.Carro - Deletado: Carro(placa=ERT1234, marca=Fiat, modelo=Palio, ano=2020, bateria=null, placaBateria=null) 
+2024-11-22 13:02:15 [grizzly-http-server-2] INFO  tria.entidades.Carro - Listados: [Carro(placa=PLO1234, marca=BYD, modelo=Dolphin, ano=2023, bateria=null, placaBateria=null), Carro(placa=XYZ5678, marca=Honda, modelo=HB20, ano=2022, bateria=null, placaBateria=null)] 
+2024-11-22 13:02:15 [grizzly-http-server-3] INFO  tria.entidades.Carro - Listados: [Carro(placa=PLO1234, marca=BYD, modelo=Dolphin, ano=2023, bateria=null, placaBateria=null), Carro(placa=XYZ5678, marca=Honda, modelo=HB20, ano=2022, bateria=null, placaBateria=null)] 
+2024-11-22 13:02:36 [grizzly-http-server-4] INFO  tria.entidades.Carro - Listados: [Carro(placa=PLO1234, marca=BYD, modelo=Dolphin, ano=2023, bateria=null, placaBateria=null), Carro(placa=XYZ5678, marca=Honda, modelo=HB20, ano=2022, bateria=null, placaBateria=null)] 
+2024-11-22 13:02:36 [grizzly-http-server-5] INFO  tria.entidades.Carro - Listados: [Carro(placa=PLO1234, marca=BYD, modelo=Dolphin, ano=2023, bateria=null, placaBateria=null), Carro(placa=XYZ5678, marca=Honda, modelo=HB20, ano=2022, bateria=null, placaBateria=null)] 
+2024-11-22 13:02:38 [grizzly-http-server-6] INFO  tria.entidades.Bateria - Listados: [Bateria(tensao_nominal=48.0, capacidade_ah=100.0, capacidade_kwh=4800.0)] 
+2024-11-22 13:02:39 [grizzly-http-server-7] INFO  tria.entidades.Bateria - Listados: [Bateria(tensao_nominal=48.0, capacidade_ah=100.0, capacidade_kwh=4800.0)] 
+2024-11-22 13:03:05 [grizzly-http-server-9] INFO  tria.entidades.Bateria - Cadastrado: Bateria(tensao_nominal=1200.0, capacidade_ah=48.0, capacidade_kwh=57.6) 
+2024-11-22 13:03:06 [grizzly-http-server-10] INFO  tria.entidades.Bateria - Listados: [Bateria(tensao_nominal=48.0, capacidade_ah=100.0, capacidade_kwh=4800.0)] 
+2024-11-22 13:03:06 [grizzly-http-server-11] INFO  tria.entidades.Bateria - Listados: [Bateria(tensao_nominal=48.0, capacidade_ah=100.0, capacidade_kwh=4800.0)] 
+2024-11-22 13:03:09 [grizzly-http-server-0] INFO  tria.entidades.Bateria - Listados: [Bateria(tensao_nominal=48.0, capacidade_ah=100.0, capacidade_kwh=4800.0)] 
+2024-11-22 13:03:09 [grizzly-http-server-1] INFO  tria.entidades.Bateria - Listados: [Bateria(tensao_nominal=48.0, capacidade_ah=100.0, capacidade_kwh=4800.0)] 
+2024-11-22 13:03:56 [grizzly-http-server-3] INFO  tria.entidades.Bateria - Cadastrado: Bateria(tensao_nominal=200.0, capacidade_ah=24.0, capacidade_kwh=4.8) 
+2024-11-22 13:03:57 [grizzly-http-server-4] INFO  tria.entidades.Bateria - Listados: [Bateria(tensao_nominal=48.0, capacidade_ah=100.0, capacidade_kwh=4800.0), Bateria(tensao_nominal=200.0, capacidade_ah=24.0, capacidade_kwh=4.8)] 
+2024-11-22 13:03:58 [grizzly-http-server-5] INFO  tria.entidades.Bateria - Listados: [Bateria(tensao_nominal=48.0, capacidade_ah=100.0, capacidade_kwh=4800.0), Bateria(tensao_nominal=200.0, capacidade_ah=24.0, capacidade_kwh=4.8)] 
+2024-11-22 13:04:00 [grizzly-http-server-6] INFO  tria.entidades.Bateria - Buscado por ID: Bateria(tensao_nominal=200.0, capacidade_ah=24.0, capacidade_kwh=4.8) 
+2024-11-22 13:04:00 [grizzly-http-server-7] INFO  tria.entidades.Bateria - Buscado por ID: Bateria(tensao_nominal=200.0, capacidade_ah=24.0, capacidade_kwh=4.8) 
+2024-11-22 13:04:23 [grizzly-http-server-9] INFO  tria.entidades.Bateria - Buscado por ID: Bateria(tensao_nominal=200.0, capacidade_ah=24.0, capacidade_kwh=4.8) 
+2024-11-22 13:04:23 [grizzly-http-server-9] INFO  tria.entidades.Bateria - Deletado: Bateria(tensao_nominal=200.0, capacidade_ah=24.0, capacidade_kwh=4.8) 
+2024-11-22 13:04:24 [grizzly-http-server-10] INFO  tria.entidades.Bateria - Listados: [Bateria(tensao_nominal=48.0, capacidade_ah=100.0, capacidade_kwh=4800.0)] 
+2024-11-22 13:04:24 [grizzly-http-server-11] INFO  tria.entidades.Bateria - Listados: [Bateria(tensao_nominal=48.0, capacidade_ah=100.0, capacidade_kwh=4800.0)] 
+2024-11-22 13:04:35 [grizzly-http-server-0] INFO  tria.entidades.PlacaBateria - Listados: [PlacaBateria(tensao_nominal=400.0, capacidade_ah=150.0, capacidade_kwh=60.0)] 
+2024-11-22 13:04:35 [grizzly-http-server-1] INFO  tria.entidades.PlacaBateria - Listados: [PlacaBateria(tensao_nominal=400.0, capacidade_ah=150.0, capacidade_kwh=60.0)] 
+2024-11-22 13:04:50 [grizzly-http-server-3] INFO  tria.entidades.PlacaBateria - Cadastrado: PlacaBateria(tensao_nominal=24.0, capacidade_ah=10000.0, capacidade_kwh=240.0) 
+2024-11-22 13:04:52 [grizzly-http-server-4] INFO  tria.entidades.PlacaBateria - Listados: [PlacaBateria(tensao_nominal=400.0, capacidade_ah=150.0, capacidade_kwh=60.0)] 
+2024-11-22 13:04:52 [grizzly-http-server-5] INFO  tria.entidades.PlacaBateria - Listados: [PlacaBateria(tensao_nominal=400.0, capacidade_ah=150.0, capacidade_kwh=60.0)] 
+2024-11-22 13:05:00 [grizzly-http-server-6] INFO  tria.entidades.PlacaBateria - Listados: [PlacaBateria(tensao_nominal=400.0, capacidade_ah=150.0, capacidade_kwh=60.0)] 
+2024-11-22 13:05:00 [grizzly-http-server-7] INFO  tria.entidades.PlacaBateria - Listados: [PlacaBateria(tensao_nominal=400.0, capacidade_ah=150.0, capacidade_kwh=60.0)] 
+2024-11-22 13:05:22 [grizzly-http-server-9] INFO  tria.entidades.PlacaBateria - Cadastrado: PlacaBateria(tensao_nominal=24.0, capacidade_ah=1000.0, capacidade_kwh=24.0) 
+2024-11-22 13:05:23 [grizzly-http-server-10] INFO  tria.entidades.PlacaBateria - Listados: [PlacaBateria(tensao_nominal=400.0, capacidade_ah=150.0, capacidade_kwh=60.0)] 
+2024-11-22 13:05:23 [grizzly-http-server-11] INFO  tria.entidades.PlacaBateria - Listados: [PlacaBateria(tensao_nominal=400.0, capacidade_ah=150.0, capacidade_kwh=60.0)] 
+2024-11-22 13:05:35 [grizzly-http-server-1] INFO  tria.entidades.PlacaBateria - Cadastrado: PlacaBateria(tensao_nominal=200.0, capacidade_ah=24.0, capacidade_kwh=4.8) 
+2024-11-22 13:05:37 [grizzly-http-server-2] INFO  tria.entidades.PlacaBateria - Listados: [PlacaBateria(tensao_nominal=400.0, capacidade_ah=150.0, capacidade_kwh=60.0), PlacaBateria(tensao_nominal=200.0, capacidade_ah=24.0, capacidade_kwh=4.8)] 
+2024-11-22 13:05:37 [grizzly-http-server-3] INFO  tria.entidades.PlacaBateria - Listados: [PlacaBateria(tensao_nominal=400.0, capacidade_ah=150.0, capacidade_kwh=60.0), PlacaBateria(tensao_nominal=200.0, capacidade_ah=24.0, capacidade_kwh=4.8)] 
+2024-11-22 13:05:40 [grizzly-http-server-4] INFO  tria.entidades.PlacaBateria - Buscado por ID: PlacaBateria(tensao_nominal=200.0, capacidade_ah=24.0, capacidade_kwh=4.8) 
+2024-11-22 13:05:40 [grizzly-http-server-5] INFO  tria.entidades.PlacaBateria - Buscado por ID: PlacaBateria(tensao_nominal=200.0, capacidade_ah=24.0, capacidade_kwh=4.8) 
+2024-11-22 13:05:42 [grizzly-http-server-7] INFO  tria.entidades.PlacaBateria - Buscado por ID: PlacaBateria(tensao_nominal=200.0, capacidade_ah=24.0, capacidade_kwh=4.8) 
+2024-11-22 13:05:43 [grizzly-http-server-7] INFO  tria.entidades.PlacaBateria - Deletado: PlacaBateria(tensao_nominal=200.0, capacidade_ah=24.0, capacidade_kwh=4.8) 
+2024-11-22 13:05:44 [grizzly-http-server-8] INFO  tria.entidades.PlacaBateria - Listados: [PlacaBateria(tensao_nominal=400.0, capacidade_ah=150.0, capacidade_kwh=60.0)] 
+2024-11-22 13:05:44 [grizzly-http-server-9] INFO  tria.entidades.PlacaBateria - Listados: [PlacaBateria(tensao_nominal=400.0, capacidade_ah=150.0, capacidade_kwh=60.0)] 
+2024-11-22 13:06:41 [grizzly-http-server-10] INFO  tria.entidades.PlacaBateria - Buscado por ID: PlacaBateria(tensao_nominal=400.0, capacidade_ah=150.0, capacidade_kwh=60.0) 
+2024-11-22 13:06:41 [grizzly-http-server-11] INFO  tria.entidades.PlacaBateria - Buscado por ID: PlacaBateria(tensao_nominal=400.0, capacidade_ah=150.0, capacidade_kwh=60.0) 
+2024-11-22 13:06:46 [grizzly-http-server-0] INFO  tria.entidades.PlacaBateria - Listados: [PlacaBateria(tensao_nominal=400.0, capacidade_ah=150.0, capacidade_kwh=60.0)] 
+2024-11-22 13:06:46 [grizzly-http-server-1] INFO  tria.entidades.PlacaBateria - Listados: [PlacaBateria(tensao_nominal=400.0, capacidade_ah=150.0, capacidade_kwh=60.0)] 
+2024-11-22 13:07:39 [grizzly-http-server-2] INFO  tria.entidades.Bateria - Listados: [Bateria(tensao_nominal=48.0, capacidade_ah=100.0, capacidade_kwh=4800.0)] 
+2024-11-22 13:07:40 [grizzly-http-server-3] INFO  tria.entidades.Bateria - Listados: [Bateria(tensao_nominal=48.0, capacidade_ah=100.0, capacidade_kwh=4800.0)] 
+2024-11-22 13:07:41 [grizzly-http-server-4] INFO  tria.entidades.Bateria - Buscado por ID: Bateria(tensao_nominal=48.0, capacidade_ah=100.0, capacidade_kwh=4800.0) 
+2024-11-22 13:07:41 [grizzly-http-server-5] INFO  tria.entidades.Bateria - Buscado por ID: Bateria(tensao_nominal=48.0, capacidade_ah=100.0, capacidade_kwh=4800.0) 
+2024-11-22 13:07:49 [grizzly-http-server-7] INFO  tria.entidades.Bateria - Buscado por ID: Bateria(tensao_nominal=48.0, capacidade_ah=100.0, capacidade_kwh=4800.0) 
+2024-11-22 13:07:49 [grizzly-http-server-7] INFO  tria.entidades.Bateria - Atualizado: Bateria(tensao_nominal=1.0, capacidade_ah=1.0, capacidade_kwh=123.0) 
+2024-11-22 13:07:50 [grizzly-http-server-8] INFO  tria.entidades.Bateria - Listados: [Bateria(tensao_nominal=1.0, capacidade_ah=1.0, capacidade_kwh=123.0)] 
+2024-11-22 13:07:50 [grizzly-http-server-9] INFO  tria.entidades.Bateria - Listados: [Bateria(tensao_nominal=1.0, capacidade_ah=1.0, capacidade_kwh=123.0)] 
