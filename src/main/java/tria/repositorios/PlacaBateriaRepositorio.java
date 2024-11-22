@@ -1,7 +1,6 @@
 package tria.repositorios;
 
 import lombok.var;
-import tria.entidades.Bateria;
 import tria.entidades.PlacaBateria;
 import tria.infraestrutura.DatabaseConfig;
 
@@ -69,7 +68,7 @@ public class PlacaBateriaRepositorio implements _RepositorioCrud<PlacaBateria> {
         Optional<PlacaBateria> placaBateria = Optional.empty();
         try {
             var conn = DatabaseConfig.getConnection();
-            var query = "SELECT * FROM T_PLACA_BATERIA WHERE ID_BATERIA = ? ORDER BY ID_PLACA_BATERIA";
+            var query = "SELECT * FROM T_PLACA_BATERIA WHERE ID_PLACA_BATERIA = ? ORDER BY ID_PLACA_BATERIA";
             var stmt = conn.prepareStatement(query);
             stmt.setInt(1, id);
             var rs = stmt.executeQuery();
